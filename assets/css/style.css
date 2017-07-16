@@ -1,0 +1,28 @@
+#gifCnt
+{
+  margin-top: 20px;
+}
+
+img
+{
+  border: 2px double gray;
+  margin: 5px 5px 5px 20px;
+  width: 300px;
+  height: 160px;
+}
+
+p
+{
+  margin-left: 20px;
+}
+
+.form-control
+{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.mvibutt
+{
+  margin: 2px;
+}
